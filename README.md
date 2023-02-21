@@ -36,7 +36,7 @@ Actually:
 <a href="https://cmake.org/" target="_blank"><img align="left" alt="CMake" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" style="padding-right:10px;" />
 <a href="https://www.arduino.cc/" target="_blank"><img align="left" alt="Arduino" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" style="padding-right:10px;" /></a>
 <a href="https://pytorch.org/" target="_blank"><img align="left" alt="Pytorch" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" style="padding-right:10px;" /></a>
-<a href="https://www.ros.org/" target="_blank"><img align="left" alt="ROS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg" style="padding-right:10px;" /></a>
+<a href="https://www.ros.org/" target="_blank"><img align="left" alt="ROS" width="46px" src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg" style="padding-right:10px;" /></a>
 <br>
 <br>
 
