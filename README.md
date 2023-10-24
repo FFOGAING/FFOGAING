@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Franck Fogaing Kamgaing
-I'm Franck from Cameroon, living in Germany , Mechatronics and robotics student, I am interested on topic around computational optimization, reinforcement learning, robotics and control algorithm 
+I'm Franck from Cameroon, living in Germany , Mechatronics and robotics student, I am interested on topics around machine learning, robotics and control Theory 
 
 Actually:
 
