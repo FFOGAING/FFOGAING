@@ -19,7 +19,7 @@ I'm Franck from Cameroon, living in Germany , Mechatronics and robotics student,
 
 Actually:
 
-- 🔭 I’m currently working by [Luhbots](https://luhbots-hannover.de/en/home/) and [Bosch Research](https://www.bosch.com/research/)
+- 🔭 I’m currently working by [Luhbots @work](https://luhbots-hannover.de/de/teams-de/work-team-de/) and [Bosch Research](https://www.bosch.com/research/)
 - 🌱 I’m currently learning Ros2, Open CV and Docker
 - 👯 I’m looking to collaborate on reinforcement learning, control and optimization or robotics projects (currently busy)
 - 📫 How to reach me: Linkedin other email
