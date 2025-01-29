@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Franck Fogaing Kamgaing
-I'm Franck from Cameroon, living in Germany , Mechatronics and robotics student, I am interested on topics around machine learning, robotics and control Theory 
+I'm Franck from Cameroon, living in Germany , Mechatronics and robotics Msc. graduate, I am interested on topics around machine learning, robotics and control Theory 
 
 Actually:
 
-- 🔭 I’m currently working by [Luhbots @work](https://luhbots-hannover.de/de/teams-de/work-team-de/) and [Bosch Research](https://www.bosch.com/research/)
-- 🌱 I’m currently learning Ros2, Open CV and Docker
-- 👯 I’m looking to collaborate on reinforcement learning, control and optimization or robotics projects (currently busy)
+- 🔭 I’m currently working by ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on reinforcement learning, control and optimization or robotics projects 
 - 📫 How to reach me: Linkedin other email
 
 
